@@ -62,3 +62,23 @@ La commande
     cd 
 ``` 
 sert a ce deplacer dans l'arborecense 
+
+La commande :
+```
+    -i 
+```
+elle sert a  editer le fichier 
+
+la commande :
+```
+    git push 
+```
+sert a envoyer du git au github 
+
+bien penser a sauvegarder avec ctrl s avant chaque push et commit 
+
+La commande :
+```
+    git log 
+``` 
+sert a afficher l'historique des commit 
